@@ -1,9 +1,0 @@
-[submodule "ContosoDentistryChatBot"]
-	path = ContosoDentistryChatBot
-	url = https://github.com/soyaoki/AIND-ContosoDentistryChatBot.git
-[submodule "ContosoDentistryScheduler"]
-	path = ContosoDentistryScheduler
-	url = https://github.com/soyaoki/AIND-ContosoDentistryScheduler.git
-[submodule "ContosoDentistryWebsite"]
-	path = ContosoDentistryWebsite
-	url = https://github.com/soyaoki/AIND-ContosoDentistryWebsite.git
